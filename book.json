@@ -3,11 +3,17 @@
     "description": "OMOOC.py tutorial for teching",
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
-    "plugins": [
-        "disqus"
+    "plugins": ["disqus"
+        , "github"
+        , "gitbook-plugin-betterchinese"
+        , "tocstyles"
     ],
     "pluginsConfig": {
         "shortName": "zoomquiet4gitbooks2all"
+        , "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
+        , "github": {
+              "url": "https://github.com/ZoomQuiet/OMOOC2py"
+            }
     }
 }
 
