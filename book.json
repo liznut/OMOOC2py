@@ -8,7 +8,7 @@
         , "tocstyles"
     ],
     "pluginsConfig": {
-        "shortName": "zoomquiet4gitbooks2all"
+        "shortName": "zqomooc2py"
         , "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
         , "github": {
               "url": "https://github.com/ZoomQuiet/OMOOC2py"
