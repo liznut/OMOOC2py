@@ -4,7 +4,7 @@
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
     "plugins": [
-        //"disqus" , 
+        "disqus" , 
         "github" ,
         "tocstyles"
     ],

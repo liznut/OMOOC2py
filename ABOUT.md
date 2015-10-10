@@ -17,8 +17,3 @@
 - 150317 迁移用 开智官方 gitbook 身份
 - 150316 ZQ 创建
 
-
-<!-- UY BEGIN -->
-<div id="uyan_frame"></div>
-<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1518639"></script>
-<!-- UY END -->
