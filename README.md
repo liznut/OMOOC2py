@@ -7,6 +7,14 @@
 - 一个 gitbook 最小图书框架
 - 一个 配合课程每周开发任务的目录树
 
-## 大妈的随堂笔记
+## 栗子的随堂笔记
 
-- 151001 创建
+- 151010 创建
+- 连接github和gitbook：
+
+1 settings-github
+2 github repository, integration-add webhook
+3 check "webhooks&services" in github.
+
+##读官方帮助文件的重要性
+https://help.gitbook.com/index.html
