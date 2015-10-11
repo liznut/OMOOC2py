@@ -1,6 +1,5 @@
-# WEEK1
+# 连接github和gitbook
 
-- 连接github和gitbook：
 
 1 settings-github
 
