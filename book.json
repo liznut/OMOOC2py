@@ -1,4 +1,4 @@
-﻿{"title": "开智学院 编程课程 Python 入门班 私人教程模板",
+{"title": "开智学院 编程课程 Python 入门班 私人教程模板",
     "version": "15.9.18,2020",
     "description": "OMOOC.py tutorial for teching",
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
@@ -9,7 +9,7 @@
         "tocstyles"
     ],
     "pluginsConfig": {
-        "shortName": "liznut10"
+        "shortName": "liznut"
         , "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
         , "github": {
               "url": "https://github.com/ZoomQuiet/OMOOC2py"
