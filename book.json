@@ -3,10 +3,6 @@
     "version": "15.9.18,2020",
     "description": "OMOOC.py tutorial for teching",
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {
-        "shortName": "liznut10"
-    }
+    "plugins": [],
+    "pluginsConfig": {}
 }
