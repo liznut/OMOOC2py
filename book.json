@@ -1,8 +1,8 @@
 {
     "plugins": [
-        "discus"
+        "disqus"
     ],
     "plugins Configuration": {
-        "short Name": "liznut10"
+        "shortName": "liznut10"
     }
 }
