@@ -6,7 +6,5 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {
-        "shortName": "liznut10"
-    }
+    "pluginsConfig": {}
 }
