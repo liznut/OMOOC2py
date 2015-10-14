@@ -8,5 +8,8 @@
         "github",
         "tocstyles"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "shortName": "liznut10"
+        
+    }
 }
