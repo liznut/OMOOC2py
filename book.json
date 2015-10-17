@@ -1,8 +1,11 @@
-{
-    "plugins": [
-        "disqus"
-    ],
-    "plugins Configuration": {
-        "shortName": "liznut10"
-    }
+{"title": "itdmb-language",
+    "version": "15.10.15",
+    "description": "一本介绍编程语言基本概念的速成手册",
+    "author": "liangchao <liangchaob@163.com>",
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "liznut10"
+        }
+    } 
 }
