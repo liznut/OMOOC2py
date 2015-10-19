@@ -7,6 +7,7 @@
 ## 配置
 
 ## 使用
+教程一个：http://www.yiibai.com/git/git_pull.html
 
 ## 体验
 
