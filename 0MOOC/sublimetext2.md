@@ -6,13 +6,12 @@
 ##一个问题：
 ###由于没有交互功能，在使用带有raw_input的命令时，python 会报错：EOFError: EOF when reading a line
 ###为了实现python 交互命令，使用REPL插件，但是总是报错：
-sublime WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb
+sublime WindowsError(2,'\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb
 
 ###Google 之，找到教程：
 1.http://blog.csdn.net/angelahhj/article/details/42172487
 2.http://stackoverflow.com/questions/19734343/sublime-text-2-sublimerepl-package-issue
 （这个方法可以给REPL设置快捷键）
-
 3.http://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-7
 
 ###检查：
