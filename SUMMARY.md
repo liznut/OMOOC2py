@@ -28,4 +28,4 @@
   + [教程该怎么写](draft/how2tutorial.md)
   + [0wd4讲课记录](0MOOC/0wd4_record.md)
 - [有关](ABOUT.md)
->>>>>>> f7851716b34439ca2b8876a9555f883b09b177bf
+
