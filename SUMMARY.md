@@ -3,10 +3,11 @@
 
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
-   * [连接github与gitbook](0MOOC/week1.md)
+   * [连接github与gitbook](0MOOC/week0.md)
    * [设置DISQUS](0MOOC/DISQUS.md)
    * [设置sublimetext2](0MOOC/sublimetext2.md)
 * [基础旋进](1sTry/README.md)
+   * [极简交互式日记系统](_src/om2py0w/diary.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
 * [代码 (_src)](_src/README.md)
