@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- encoding:utf-8 -*-
 
 from Tkinter import *
 root = Tk()
@@ -7,6 +7,7 @@ def save():
     text = e.get() + "\n"
     f=open("diary.txt", "a")
     f.write(text)
+    f.close()
 
 def read():
 	f=open("diary.txt")

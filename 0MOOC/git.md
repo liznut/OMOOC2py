@@ -79,3 +79,6 @@
  		git push
 ## 体验
 
+##在sublime text2 中使用git
+
+http://www.cnblogs.com/owenChen/archive/2012/12/28/2837450.html
